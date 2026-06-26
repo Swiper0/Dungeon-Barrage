@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: 954a48948418ca240861370aac16cefc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lvl8_Idle_with_shadow_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 174
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8100306a0072c0f489922df969ffbec1
+      internalID: -402548778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl8_Idle_with_shadow_16
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 174
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf08014abc910b4e86f6336ba8c18f4
+      internalID: -2057153417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl8_Idle_with_shadow_38
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 17
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19df78e76ff115243ac3714c17d27918
+      internalID: 986088429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl8_Idle_with_shadow_39
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 17
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1cdaefca07b9349a6b97835dd86eca
+      internalID: -1455939880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl8_Idle_with_shadow_40
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 17
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4bfa1781ad2ba4bad807d98f9e11dd
+      internalID: -131881046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl8_Idle_with_shadow_41
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 17
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f48f68ae2dea34882531c65c51e798
+      internalID: 1757569191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      lvl8_Idle_with_shadow_0: -1365068813
+      lvl8_Idle_with_shadow_1: 1787283415
+      lvl8_Idle_with_shadow_10: 744273520
+      lvl8_Idle_with_shadow_11: 564804366
+      lvl8_Idle_with_shadow_12: -402548778
+      lvl8_Idle_with_shadow_13: 158683931
+      lvl8_Idle_with_shadow_14: -1203741389
+      lvl8_Idle_with_shadow_15: 1399620881
+      lvl8_Idle_with_shadow_16: -2057153417
+      lvl8_Idle_with_shadow_17: -1075942410
+      lvl8_Idle_with_shadow_18: 1075232998
+      lvl8_Idle_with_shadow_19: 1678823883
+      lvl8_Idle_with_shadow_2: -898602528
+      lvl8_Idle_with_shadow_20: 196808062
+      lvl8_Idle_with_shadow_21: -1657957305
+      lvl8_Idle_with_shadow_22: -1005016525
+      lvl8_Idle_with_shadow_23: -998597928
+      lvl8_Idle_with_shadow_24: -462383751
+      lvl8_Idle_with_shadow_25: 497781637
+      lvl8_Idle_with_shadow_26: -1572074911
+      lvl8_Idle_with_shadow_27: 1775402918
+      lvl8_Idle_with_shadow_28: 1199890530
+      lvl8_Idle_with_shadow_29: -1100109422
+      lvl8_Idle_with_shadow_3: -511395666
+      lvl8_Idle_with_shadow_30: 381096959
+      lvl8_Idle_with_shadow_31: 1664679254
+      lvl8_Idle_with_shadow_32: 2104711735
+      lvl8_Idle_with_shadow_33: 2062340794
+      lvl8_Idle_with_shadow_34: -314629245
+      lvl8_Idle_with_shadow_35: 2082609260
+      lvl8_Idle_with_shadow_36: -1397037299
+      lvl8_Idle_with_shadow_37: -1773307803
+      lvl8_Idle_with_shadow_38: 986088429
+      lvl8_Idle_with_shadow_39: -1455939880
+      lvl8_Idle_with_shadow_4: -2050675997
+      lvl8_Idle_with_shadow_40: -131881046
+      lvl8_Idle_with_shadow_41: 1757569191
+      lvl8_Idle_with_shadow_42: -1459710420
+      lvl8_Idle_with_shadow_5: -195525340
+      lvl8_Idle_with_shadow_6: -2140204422
+      lvl8_Idle_with_shadow_7: 100297661
+      lvl8_Idle_with_shadow_8: 615166713
+      lvl8_Idle_with_shadow_9: -551806785
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

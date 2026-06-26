@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84165e7ff44f65347b1ebd07f1ac4d78, type: 3}
+  m_Name: Default
+  m_EditorClassIdentifier: 
+  skinName: Normal Knight
+  skinSprite: {fileID: 1619434976, guid: 14e83167a4490c042b741a87bde19c3a, type: 3}
+  price: 0
+  rarity: 0
